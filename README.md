@@ -8,3 +8,6 @@ registro de deportistas, deporetes, disciplinas...
 **Disciplinas:** nombre, nro de participantes, y record mundial.  
 **Equipos:** nombre, lista atletas(modificable), disciplina  
 **Evento:** disciplina, quipos, atletas y una fecha  
+
+Las funcionalidades deberan ser agregar objetos a cada clase y armar y relacionar las listas   
+entre si.
